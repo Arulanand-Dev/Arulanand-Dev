@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arulanand-Dev
+- 👋 Hi, I’m Arulanand..
 - 👀 I’m a full stack developer..
 - 🌱 I’m currently learning Azure functions ...
 
